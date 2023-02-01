@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Matthew/Documents/College/3rd Year College/2nd Semester/ITP211/app/src/main/res/layout/activity_lipton.xml" value="0.22735507246376813" />
         <entry key="..\:/Users/Matthew/Documents/College/3rd Year College/2nd Semester/ITP211/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Matthew/Documents/College/3rd Year College/2nd Semester/ITP211/app/src/main/res/layout/activity_mt_dew.xml" value="0.22735507246376813" />
+        <entry key="..\:/Users/Matthew/Documents/College/3rd Year College/2nd Semester/ITP211/app/src/main/res/layout/activity_pepsi.xml" value="0.22735507246376813" />
+        <entry key="..\:/Users/Matthew/Documents/College/3rd Year College/2nd Semester/ITP211/app/src/main/res/layout/activity_water.xml" value="0.22735507246376813" />
       </map>
     </option>
   </component>
